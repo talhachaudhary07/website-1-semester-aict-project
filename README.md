@@ -344,22 +344,15 @@ For comprehensive documentation, see **DOCUMENTATION.md** which includes:
 - Conclusion and future plans
 - 10-page comprehensive guide
 
----
-
-## 📧 Contact & Support
-
-**Email:** info@progbasics.com  
-**Phone:** +92-300-1234567  
-**Location:** Karachi, Pakistan
 
 ---
 
 ## 👤 Author Information
 
-**Name:** [Your Full Name]  
-**Roll Number:** [Your Roll Number]  
+**Name:** M. Talha Ch 
+**Roll Number:** 2025-CS-497 
 **Semester:** 1st Semester AICT  
-**Institution:** [Your College/University]  
+**Institution:** UET LAhore 
 **Submission Date:** January 2025
 
 ---
